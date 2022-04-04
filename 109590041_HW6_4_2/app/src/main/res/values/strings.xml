@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">109590041_HW6_4_2</string>
+    <string name="checboxText1">Chocolate syrup</string>
+    <string name="checboxText2">Sprinkies</string>
+    <string name="checboxText3">Crushed nuts</string>
+    <string name="checboxText4">Cherries</string>
+    <string name="checboxText5">Orio cookie crumbles</string>
+    <string name="showToastText">Show Toast</string>
+</resources>
